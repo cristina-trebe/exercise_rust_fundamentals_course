@@ -1,5 +1,5 @@
 # Ultimate Rust Crash Course
-## Rust Programming Fundamentals with Nathan Stocks - "Ultimate Rust Crash Course" - Udemy
+## Rust Programming Fundamentals with Nathan Stocks - Udemy
 
 This is the companion repository for the [Ultimate Rust Crash Course] published online, presented
 live at O'Reilly virtual events, or in person.  You will get the most out of this training 
@@ -72,9 +72,6 @@ session) and come back here for the [exercises].
 
 # Exercises
 
-Please clone this repository! These exercises are designed as Rust projects for you to edit on your
-own computer, with the exception of Exercise A (which is just a `README.md` file).
-
 The exercises are separate Rust projects inside the `exercises/` subdirectory.  For each exercise,
 you should:
 - Open the corresponding`exercise/EXERCISE_NAME` directory in your IDE/Editor
@@ -83,10 +80,7 @@ you should:
 - Open up the `src/main.rs` file.
 - Follow the numbered exercise instructions in the code comments.
 
-If you encounter any problems with the exercises, please feel free to use the online course
-communication tools to contact me, or [open an discussion]. Either way. 😄
-
-For your convenience, here is a list of all the exercises, with links to view the code on GitHub.
+Here is a list of all the exercises in the Udemy-Course, with links to view the code on GitHub.
 
 - [Exercise A - Variables & Scope](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/a_variables)
 - [Exercise B - Functions](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/b_functions)
