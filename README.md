@@ -80,17 +80,17 @@ you should:
 - Open up the `src/main.rs` file.
 - Follow the numbered exercise instructions in the code comments.
 
-Here is a list of all the exercises in the Udemy-Course, with links to view the code on GitHub.
+Here is a list of all the exercises, with links to view the code on GitHub.
 
-- [Exercise A - Variables & Scope](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/a_variables)
-- [Exercise B - Functions](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/b_functions)
-- [Exercise C - Simple Types](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/c_simple_types)
-- [Exercise D - Control Flow & Strings](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/d_control_flow_strings)
-- [Exercise E - Ownership & References](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/e_ownership_references)
-- [Exercise F - Structs & Traits](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/f_structs_traits)
-- [Exercise G - Collections & Enums](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/g_collections_enums)
-- [Exercise H - Closures & Threads](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/h_closures_threads)
-- [Exercise Z - Final Project](https://github.com/CleanCut/ultimate_rust_crash_course/tree/master/exercise/z_final_project)
+- [Exercise A - Variables & Scope](https://github.com/cristina-trebe/exercise_rust_fundamentals_course/tree/master/exercise/a_variables)
+- [Exercise B - Functions](https://github.com/cristina-trebe/exercise_rust_fundamentals_course/tree/master/exercise/b_functions)
+- [Exercise C - Simple Types](https://github.com/cristina-trebe/exercise_rust_fundamentals_course/tree/master/exercise/c_simple_types)
+- [Exercise D - Control Flow & Strings](https://github.com/cristina-trebe/exercise_rust_fundamentals_course/tree/master/exercise/d_control_flow_strings)
+- [Exercise E - Ownership & References](https://github.com/cristina-trebe/exercise_rust_fundamentals_course/tree/master/exercise/e_ownership_references)
+- [Exercise F - Structs & Traits](https://github.com/cristina-trebe/exercise_rust_fundamentals_course/tree/master/exercise/f_structs_traits)
+- [Exercise G - Collections & Enums](https://github.com/cristina-trebe/exercise_rust_fundamentals_course/tree/master/exercise/g_collections_enums)
+- [Exercise H - Closures & Threads](https://github.com/cristina-trebe/exercise_rust_fundamentals_course/tree/master/exercise/h_closures_threads)
+- [Exercise Z - Final Project](https://github.com/cristina-trebe/exercise_rust_fundamentals_course/tree/master/exercise/z_final_project)
 
 # Projects
 
